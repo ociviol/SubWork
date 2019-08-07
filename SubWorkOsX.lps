@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="SubWorkOsX.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="39" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <CursorPos X="20" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Edit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="subrec.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit2.pas"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="18" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
